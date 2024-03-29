@@ -27,20 +27,6 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 Node.js - Entorno de ejecución para JavaScript
 Express - Framework web para Node.js
 
-## Contribuyendo 🖇️
-
-Por favor, lee el CONTRIBUTING.md para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
-
-## Soporte
-
-Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/your/project/issues).
-
-## Roadmap
-
-Ideas, mejoras planificadas y actualizaciones futuras
-
-para el proyecto actual.
-
 ## Versionado 📌
 
 Usamos Git para el versionado.
